@@ -1,0 +1,576 @@
+{
+  "total_hits": 1,
+  "assets": [
+    {
+      "studio": "Unspecified",
+      "country": [
+        "United States"
+      ],
+      "fifteen_by_seven": {
+        "copyright": "",
+        "localizations": [
+          {
+            "copyright": "",
+            "caption": "",
+            "language": "sv_SE",
+            "url": "https://img-cdn-cmore.b17g.services/df26f68a-b3fb-4c27-a203-9407a8ed06b9/419.img"
+          },
+          {
+            "copyright": "",
+            "caption": "",
+            "language": "nb_NO",
+            "url": "https://img-cdn-cmore.b17g.services/df26f68a-b3fb-4c27-a203-9407a8ed06b9/419.img"
+          },
+          {
+            "copyright": "",
+            "caption": "",
+            "language": "fi_FI",
+            "url": "https://img-cdn-cmore.b17g.services/df26f68a-b3fb-4c27-a203-9407a8ed06b9/419.img"
+          },
+          {
+            "copyright": "",
+            "caption": "",
+            "language": "da_DK",
+            "url": "https://img-cdn-cmore.b17g.services/df26f68a-b3fb-4c27-a203-9407a8ed06b9/419.img"
+          }
+        ],
+        "caption": "",
+        "url": ""
+      },
+      "description_tiny_sv": "",
+      "drm_restrictions": true,
+      "description_medium_da": "",
+      "genre_description_sv": "Action",
+      "type": "movie",
+      "genre_description_da": "Action",
+      "episode_number": 1,
+      "keywords_da": [],
+      "description_short_da": "Superheltene Batman og Superman møder hinanden i en stort opsat actionfilm, der også introducerer Wonder Woman.",
+      "brand": {
+        "studio": "Unspecified",
+        "description_extended_da": "",
+        "country": [],
+        "fifteen_by_seven": {
+          "copyright": "",
+          "localizations": [
+            {
+              "copyright": "",
+              "caption": "",
+              "language": "sv_SE",
+              "url": "https://img-cdn-cmore.b17g.services/df26f68a-b3fb-4c27-a203-9407a8ed06b9/419.img"
+            },
+            {
+              "copyright": "",
+              "caption": "",
+              "language": "nb_NO",
+              "url": "https://img-cdn-cmore.b17g.services/df26f68a-b3fb-4c27-a203-9407a8ed06b9/419.img"
+            },
+            {
+              "copyright": "",
+              "caption": "",
+              "language": "fi_FI",
+              "url": "https://img-cdn-cmore.b17g.services/df26f68a-b3fb-4c27-a203-9407a8ed06b9/419.img"
+            },
+            {
+              "copyright": "",
+              "caption": "",
+              "language": "da_DK",
+              "url": "https://img-cdn-cmore.b17g.services/df26f68a-b3fb-4c27-a203-9407a8ed06b9/419.img"
+            }
+          ],
+          "caption": "",
+          "url": ""
+        },
+        "description_tiny_sv": "",
+        "description_medium_da": "",
+        "genre_description_sv": "Action",
+        "title_da": "",
+        "genre_description_da": "Action",
+        "genres": [],
+        "description_short_da": "",
+        "id": "",
+        "cinemascope": {
+          "copyright": "",
+          "localizations": [
+            {
+              "copyright": "",
+              "caption": "",
+              "language": "sv_SE",
+              "url": "https://img-cdn-cmore.b17g.services/df26f68a-b3fb-4c27-a203-9407a8ed06b9/209.img"
+            },
+            {
+              "copyright": "",
+              "caption": "",
+              "language": "nb_NO",
+              "url": "https://img-cdn-cmore.b17g.services/df26f68a-b3fb-4c27-a203-9407a8ed06b9/209.img"
+            },
+            {
+              "copyright": "",
+              "caption": "",
+              "language": "fi_FI",
+              "url": "https://img-cdn-cmore.b17g.services/df26f68a-b3fb-4c27-a203-9407a8ed06b9/209.img"
+            },
+            {
+              "copyright": "",
+              "caption": "",
+              "language": "da_DK",
+              "url": "https://img-cdn-cmore.b17g.services/df26f68a-b3fb-4c27-a203-9407a8ed06b9/209.img"
+            }
+          ],
+          "caption": "",
+          "url": ""
+        },
+        "genre_description_nb": "Action",
+        "external_references": [],
+        "four_by_three": {
+          "copyright": "",
+          "localizations": [
+            {
+              "copyright": "",
+              "caption": "",
+              "language": "sv_SE",
+              "url": "https://img-cdn-cmore.b17g.services/df26f68a-b3fb-4c27-a203-9407a8ed06b9/418.img"
+            },
+            {
+              "copyright": "",
+              "caption": "",
+              "language": "nb_NO",
+              "url": "https://img-cdn-cmore.b17g.services/df26f68a-b3fb-4c27-a203-9407a8ed06b9/418.img"
+            },
+            {
+              "copyright": "",
+              "caption": "",
+              "language": "fi_FI",
+              "url": "https://img-cdn-cmore.b17g.services/df26f68a-b3fb-4c27-a203-9407a8ed06b9/418.img"
+            },
+            {
+              "copyright": "",
+              "caption": "",
+              "language": "da_DK",
+              "url": "https://img-cdn-cmore.b17g.services/df26f68a-b3fb-4c27-a203-9407a8ed06b9/418.img"
+            }
+          ],
+          "caption": "",
+          "url": ""
+        },
+        "title_sv": "",
+        "description_medium_sv": "",
+        "description_long_da": "",
+        "description_tiny_nb": "",
+        "description_extended_sv": "",
+        "description_long_nb": "",
+        "description_tiny_da": "",
+        "description_short_nb": "",
+        "title_nb": "",
+        "description_medium_nb": "",
+        "description_extended_nb": "",
+        "description_long_sv": "",
+        "poster": {
+          "copyright": "",
+          "localizations": [
+            {
+              "copyright": "",
+              "caption": "",
+              "language": "sv_SE",
+              "url": "https://img-cdn-cmore.b17g.services/b73a865c-dd4a-448f-aaf3-491abb4049d9/1111.img"
+            },
+            {
+              "copyright": "",
+              "caption": "",
+              "language": "nb_NO",
+              "url": "https://img-cdn-cmore.b17g.services/b73a865c-dd4a-448f-aaf3-491abb4049d9/1111.img"
+            },
+            {
+              "copyright": "",
+              "caption": "",
+              "language": "fi_FI",
+              "url": "https://img-cdn-cmore.b17g.services/b73a865c-dd4a-448f-aaf3-491abb4049d9/1111.img"
+            },
+            {
+              "copyright": "",
+              "caption": "",
+              "language": "da_DK",
+              "url": "https://img-cdn-cmore.b17g.services/b73a865c-dd4a-448f-aaf3-491abb4049d9/1111.img"
+            }
+          ],
+          "caption": "",
+          "url": ""
+        },
+        "description_short_sv": "",
+        "landscape": {
+          "copyright": "",
+          "localizations": [
+            {
+              "copyright": "",
+              "caption": "",
+              "language": "sv_SE",
+              "url": "https://img-cdn-cmore.b17g.services/df26f68a-b3fb-4c27-a203-9407a8ed06b9/137.img"
+            },
+            {
+              "copyright": "",
+              "caption": "",
+              "language": "nb_NO",
+              "url": "https://img-cdn-cmore.b17g.services/df26f68a-b3fb-4c27-a203-9407a8ed06b9/137.img"
+            },
+            {
+              "copyright": "",
+              "caption": "",
+              "language": "fi_FI",
+              "url": "https://img-cdn-cmore.b17g.services/df26f68a-b3fb-4c27-a203-9407a8ed06b9/137.img"
+            },
+            {
+              "copyright": "",
+              "caption": "",
+              "language": "da_DK",
+              "url": "https://img-cdn-cmore.b17g.services/df26f68a-b3fb-4c27-a203-9407a8ed06b9/137.img"
+            }
+          ],
+          "caption": "",
+          "url": ""
+        }
+      },
+      "events": [
+        {
+          "start_time": "2018-03-22T23:00:00Z",
+          "site": "cmore.se",
+          "publish_time": "2018-03-22T23:00:00Z",
+          "end_time": "2018-08-07T21:59:59Z",
+          "device_types": [
+            "tve_mob",
+            "tve_web",
+            "tve_tab",
+            "tve_stb"
+          ],
+          "product_groups": [
+            "1009",
+            "1235",
+            "1244",
+            "1243"
+          ],
+          "products": []
+        },
+        {
+          "start_time": "2018-03-22T23:00:00Z",
+          "site": "cmore.no",
+          "publish_time": "2018-03-22T23:00:00Z",
+          "end_time": "2018-08-07T21:59:59Z",
+          "device_types": [
+            "tve_mob",
+            "tve_web",
+            "tve_tab",
+            "tve_stb"
+          ],
+          "product_groups": [
+            "1086"
+          ],
+          "products": []
+        },
+        {
+          "start_time": "2018-03-22T23:00:00Z",
+          "site": "cmore.dk",
+          "publish_time": "2018-03-22T23:00:00Z",
+          "end_time": "2018-08-07T21:59:59Z",
+          "device_types": [
+            "tve_mob",
+            "tve_web",
+            "tve_tab",
+            "tve_stb"
+          ],
+          "product_groups": [
+            "1222",
+            "1089"
+          ],
+          "products": []
+        }
+      ],
+      "four_by_three": {
+        "copyright": "",
+        "localizations": [
+          {
+            "copyright": "",
+            "caption": "",
+            "language": "sv_SE",
+            "url": "https://img-cdn-cmore.b17g.services/df26f68a-b3fb-4c27-a203-9407a8ed06b9/418.img"
+          },
+          {
+            "copyright": "",
+            "caption": "",
+            "language": "nb_NO",
+            "url": "https://img-cdn-cmore.b17g.services/df26f68a-b3fb-4c27-a203-9407a8ed06b9/418.img"
+          },
+          {
+            "copyright": "",
+            "caption": "",
+            "language": "fi_FI",
+            "url": "https://img-cdn-cmore.b17g.services/df26f68a-b3fb-4c27-a203-9407a8ed06b9/418.img"
+          },
+          {
+            "copyright": "",
+            "caption": "",
+            "language": "da_DK",
+            "url": "https://img-cdn-cmore.b17g.services/df26f68a-b3fb-4c27-a203-9407a8ed06b9/418.img"
+          }
+        ],
+        "caption": "",
+        "url": ""
+      },
+      "title_sv": "Batman v Superman: Dawn of Justice",
+      "publication_rights": {
+        "location_rights": {
+          "product": "",
+          "location_restrictions": {
+            "include_countries": [
+              "SE",
+              "NO",
+              "FI",
+              "DK"
+            ]
+          }
+        }
+      },
+      "description_tiny_nb": "",
+      "description_extended_sv": "När Supermans gudalika krafter oroar allmänheten och Batmans metoder ifrågasätts, ställs två legendariska superhjältar mot varandra, i en konflikt manipulerad av skurken Lex Luthor. I \"Batman v Superman: Dawn of Justice\" får vi för första gången också träffa Wonder Woman i filmserien om DC:s superhjältar. För regin står Zack Snyder (\"Watchmen\", \"300\").",
+      "description_long_nb": "",
+      "description_short_nb": "Superheltene Batman og Superman kjemper mot hverandre i storslått actionfilm der også Wonder Woman er med.",
+      "tags": {
+        "all": [
+          "action",
+          "amy-adams",
+          "ben-affleck",
+          "diane-lane",
+          "gal-gadot",
+          "henry-cavill",
+          "jesse-eisenberg",
+          "zack-snyder"
+        ],
+        "other": [
+          "action"
+        ],
+        "sport_arena_or_course": [],
+        "sub_category": [],
+        "subject": [],
+        "sport_category": [],
+        "program": [],
+        "sport_away_team": [],
+        "sport_home_team": [],
+        "person": [
+          "ben-affleck",
+          "henry-cavill",
+          "amy-adams",
+          "diane-lane",
+          "jesse-eisenberg",
+          "gal-gadot",
+          "zack-snyder"
+        ],
+        "sport_league_or_competition": [],
+        "sport_season_or_tournament": [],
+        "advertisement": [],
+        "main_category": [
+          "action"
+        ],
+        "spoken_language": [],
+        "advertisement_category": [],
+        "sport_round_or_episode": [],
+        "story": []
+      },
+      "description_medium_nb": "",
+      "mlt_nids": [
+        "action"
+      ],
+      "items_published": true,
+      "poster": {
+        "copyright": "",
+        "localizations": [
+          {
+            "copyright": "",
+            "caption": "",
+            "language": "sv_SE",
+            "url": "https://img-cdn-cmore.b17g.services/b73a865c-dd4a-448f-aaf3-491abb4049d9/1111.img"
+          },
+          {
+            "copyright": "",
+            "caption": "",
+            "language": "nb_NO",
+            "url": "https://img-cdn-cmore.b17g.services/b73a865c-dd4a-448f-aaf3-491abb4049d9/1111.img"
+          },
+          {
+            "copyright": "",
+            "caption": "",
+            "language": "fi_FI",
+            "url": "https://img-cdn-cmore.b17g.services/b73a865c-dd4a-448f-aaf3-491abb4049d9/1111.img"
+          },
+          {
+            "copyright": "",
+            "caption": "",
+            "language": "da_DK",
+            "url": "https://img-cdn-cmore.b17g.services/b73a865c-dd4a-448f-aaf3-491abb4049d9/1111.img"
+          }
+        ],
+        "caption": "",
+        "url": ""
+      },
+      "keywords_sv": [],
+      "production_year": "2016",
+      "vman_id": "3960497",
+      "description_extended_da": "Utallige mennesker har gennem årene sat pris på Supermans overnaturlige kræfter, men mange bekymrer sig om de uundgåelige ødelæggelser, der følger i kølvandet på hans gode gerninger. Samtidig stiller flere og flere spørgsmålstegn ved Batmans metoder. Skurken Lex Luthor udnytter situationen og forsøger at spille de to superhelte ud mod hinanden. I \"Batman v Superman: Dawn of Justice\" møder vi også for første gang Wonder Woman. For instruktion står Zack Snyder (\"Watchmen\", \"300\").",
+      "title_da": "Batman v Superman: Dawn of Justice",
+      "keywords_nb": [],
+      "parental_ratings": [
+        {
+          "country": "",
+          "system": "",
+          "value": "BLUE"
+        }
+      ],
+      "duration": 8724,
+      "content_source": "CMore",
+      "credits": [
+        {
+          "rolename": "",
+          "function": "actor",
+          "nid": "ben-affleck",
+          "name": "Ben Affleck"
+        },
+        {
+          "rolename": "",
+          "function": "actor",
+          "nid": "henry-cavill",
+          "name": "Henry Cavill"
+        },
+        {
+          "rolename": "",
+          "function": "actor",
+          "nid": "amy-adams",
+          "name": "Amy Adams"
+        },
+        {
+          "rolename": "",
+          "function": "actor",
+          "nid": "diane-lane",
+          "name": "Diane Lane"
+        },
+        {
+          "rolename": "",
+          "function": "actor",
+          "nid": "jesse-eisenberg",
+          "name": "Jesse Eisenberg"
+        },
+        {
+          "rolename": "",
+          "function": "actor",
+          "nid": "gal-gadot",
+          "name": "Gal Gadot"
+        },
+        {
+          "rolename": "",
+          "function": "director",
+          "nid": "zack-snyder",
+          "name": "Zack Snyder"
+        }
+      ],
+      "genres": [
+        {
+          "sub": [],
+          "main": "Action"
+        }
+      ],
+      "cinemascope": {
+        "copyright": "",
+        "localizations": [
+          {
+            "copyright": "",
+            "caption": "",
+            "language": "sv_SE",
+            "url": "https://img-cdn-cmore.b17g.services/df26f68a-b3fb-4c27-a203-9407a8ed06b9/209.img"
+          },
+          {
+            "copyright": "",
+            "caption": "",
+            "language": "nb_NO",
+            "url": "https://img-cdn-cmore.b17g.services/df26f68a-b3fb-4c27-a203-9407a8ed06b9/209.img"
+          },
+          {
+            "copyright": "",
+            "caption": "",
+            "language": "fi_FI",
+            "url": "https://img-cdn-cmore.b17g.services/df26f68a-b3fb-4c27-a203-9407a8ed06b9/209.img"
+          },
+          {
+            "copyright": "",
+            "caption": "",
+            "language": "da_DK",
+            "url": "https://img-cdn-cmore.b17g.services/df26f68a-b3fb-4c27-a203-9407a8ed06b9/209.img"
+          }
+        ],
+        "caption": "",
+        "url": ""
+      },
+      "genre_description_nb": "Action",
+      "live": false,
+      "external_references": [
+        {
+          "type": "IMDB",
+          "locator": "",
+          "value": "tt2975590"
+        },
+        {
+          "type": "juneProgramId",
+          "locator": "",
+          "value": "113737"
+        },
+        {
+          "type": "juneMediaId",
+          "locator": "",
+          "value": "33862"
+        }
+      ],
+      "timestamp": "2018-03-23T07:22:01Z",
+      "description_medium_sv": "",
+      "original_title": {
+        "language": "",
+        "text": "Batman v Superman: Dawn of Justice",
+        "type": ""
+      },
+      "description_long_da": "",
+      "description_tiny_da": "",
+      "title_nb": "Batman v Superman: Dawn of Justice",
+      "spoken_languages": [],
+      "description_extended_nb": "Når Supermans superkrefter skaper bekymring, og folk stiller spørsmål ved Batmans metoder, møtes to legendariske superhelter i en konflikt manipulert av skurken Lex Luthor. I \"Batman v Superman: Dawn of Justice\" møter vi for første gang også Wonder Woman i filmserien om DCs superhelter. Regien er ved Zack Snyder (\"Watchmen\", \"300\").",
+      "description_long_sv": "",
+      "description_short_sv": "Superhjältarna Batman och Superman ställs mot varandra i storslagen actionfilm som också introducerar Wonder Woman.",
+      "landscape": {
+        "copyright": "",
+        "localizations": [
+          {
+            "copyright": "",
+            "caption": "",
+            "language": "sv_SE",
+            "url": "https://img-cdn-cmore.b17g.services/df26f68a-b3fb-4c27-a203-9407a8ed06b9/137.img"
+          },
+          {
+            "copyright": "",
+            "caption": "",
+            "language": "nb_NO",
+            "url": "https://img-cdn-cmore.b17g.services/df26f68a-b3fb-4c27-a203-9407a8ed06b9/137.img"
+          },
+          {
+            "copyright": "",
+            "caption": "",
+            "language": "fi_FI",
+            "url": "https://img-cdn-cmore.b17g.services/df26f68a-b3fb-4c27-a203-9407a8ed06b9/137.img"
+          },
+          {
+            "copyright": "",
+            "caption": "",
+            "language": "da_DK",
+            "url": "https://img-cdn-cmore.b17g.services/df26f68a-b3fb-4c27-a203-9407a8ed06b9/137.img"
+          }
+        ],
+        "caption": "",
+        "url": ""
+      },
+      "video_id": "3960497"
+    }
+  ],
+  "aggregations": []
+}
