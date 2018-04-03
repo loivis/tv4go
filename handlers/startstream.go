@@ -28,11 +28,11 @@ func Startstream(w http.ResponseWriter, r *http.Request) {
 	response.VideoID = videoID
 
 	file, err := LockFile(userID)
-	defer file.Unlock()
 	if err != nil {
 		w.Write(formatResponse(&response, "error", err.Error()))
 		return
 	}
+	defer file.Unlock()
 
 	client := search.NewClient(
 		search.SetDebugLogf(log.New(os.Stderr, "", 0).Printf),
