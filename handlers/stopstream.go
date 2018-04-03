@@ -14,6 +14,8 @@ func Stopstream(w http.ResponseWriter, r *http.Request) {
 	queryIn := r.URL.Query()
 	err := ValidateQuery(queryIn)
 	if err != nil {
+		w.WriteHeader(http.StatusBadRequest)
+		w.Write(formatResponse(&response, "error", err.Error()))
 		return
 	}
 	videoID := queryIn.Get("video_id")
