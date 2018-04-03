@@ -6,7 +6,11 @@ import (
 	"net/http"
 )
 
-func Stopstream(w http.ResponseWriter, r *http.Request) {
+type Server struct {
+	Store UserInfoStore
+}
+
+func (srv *Server) Stopstream(w http.ResponseWriter, r *http.Request) {
 	w.Header().Set("Content-Type", "application/json")
 	var response response
 
@@ -22,15 +26,8 @@ func Stopstream(w http.ResponseWriter, r *http.Request) {
 	userID := queryIn.Get("user_id")
 	response.VideoID = videoID
 
-	file, err := LockFile(userID)
-	if err != nil {
-		w.Write(formatResponse(&response, "error", err.Error()))
-		return
-	}
-	defer file.Unlock()
-
-	err = UpdateUserInfo(file.Path(), "stop", videoID)
-	if err != nil {
+	if err := srv.Store.Stop(userID, videoID); err != nil {
+		w.WriteHeader(http.StatusInternalServerError)
 		w.Write(formatResponse(&response, "error", err.Error()))
 		return
 	}

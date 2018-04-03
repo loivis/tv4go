@@ -25,3 +25,7 @@ type response struct {
 	Status  string
 	Message string
 }
+
+type UserInfoStore interface {
+	Stop(userID, videoID string) error
+}
